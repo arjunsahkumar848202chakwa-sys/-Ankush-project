@@ -1,0 +1,6 @@
+{
+  "name": "Little Genius World - बच्चों का सीखने वाला गेम",
+  "description": "बच्चों के लिए एक इंटरैक्टिव और मजेदार गेम ऐप जहाँ वे खेल-खेल में गणित (Maths) और विज्ञान (Science) की बुनियादी बातें सीखते हैं।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
